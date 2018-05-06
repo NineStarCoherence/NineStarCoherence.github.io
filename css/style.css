@@ -81,12 +81,12 @@ button.navbar-toggle {
 }
 
 .btn-theme,.btn-theme:hover,.btn-theme:focus{
-	color: #fff;
+	color: #b6a19e;
 }
 .btn-theme:hover{
-	background: transparent !important;
-	border-color: #999;
-	color: #999;
+	background: #fba100;
+	border-color: #6c648b;
+	color: #fff;
 }
 
 
@@ -164,7 +164,7 @@ nav.navbar.fixed-to-top{
 }
 
 .navbar-default .navbar-nav>li>a {
-	color: #fff;
+	color: #6c648b;
 	font-weight: 700;
 	text-transform: uppercase;
 }
@@ -182,7 +182,7 @@ nav.navbar.fixed-to-top{
 
 /* brand / logo */
 .navbar-default .navbar-brand{
-	color: #fff;
+	color: #6c648b;
 	text-transform: uppercase;
 	font-weight: 700;
 	font-size: 2em;
@@ -229,7 +229,7 @@ Home sections
 }
 
 .bg-dark {
-	background: #575757;
+	background: #b6a19e;
 }
 
 
@@ -681,7 +681,7 @@ ul.social-network li {
 
 
 ul.social-network li a:hover span .fa-circle {
-	color: #2b2b2b;
+	color: #6c648b;
 }
 
 ul.social-network li a i{
@@ -691,7 +691,7 @@ ul.social-network li a i{
 Footer
 ================================= */
 footer {
-	background: #00c1c1;
+	background: #6bbaa7;
 	color: #fff;
 	padding: 50px 0 30px;
 }
@@ -701,7 +701,7 @@ footer a {
 }
 
 footer a:hover {
-	color: #fff;
+	color: #fba100;
 	text-decoration: underline;
 }
 
